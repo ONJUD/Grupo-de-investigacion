@@ -18,7 +18,9 @@ Historia de los jovenes en Colombia: Política, Educación, Ejércitos, trabajo 
 Maestria En Investigacion Social Interdisciplinari  
 Enerode1997 - de 2001  
 El Metal iza su badera en Bogota
-2. Escribir un programa que calcule el área de un rectángulo pidiendo al usuario ingresar el valor de los lados del rectangulo.
-   área del rectángulo=lado1 * lado2. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/Simples/es2.py))
+* Pregrado/Universitario UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS
+Licenciatura En Ciencias Sociales
+Enerode1990 - de 1994
+Un Nuevo Espacio de Sociabilidad en Bogotá. La cultura de los jovenes contrestarios
    
 
