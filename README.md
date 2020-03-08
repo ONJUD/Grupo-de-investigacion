@@ -1,8 +1,8 @@
 GRUPO DE INVESTIGACIÓN DE LA UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS
 ============
-Director | Código
+Director | Correo
 --|--
-__Carlos Arturo Reina__ | __20172020083__
+__Phd. Carlos Arturo Reina Rodriguez__ | __careinar@udistrital.edu.co__
 ---
 
 Ejercicios Simples
