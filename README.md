@@ -7,12 +7,17 @@ __Phd. Carlos Arturo Reina Rodriguez__ | __careinar@udistrital.edu.co__
 
 Formación Académica
 ---
-*  Postdoctorado/Estancia postdoctoral Universidad Nacional de Córdoba  
-   En ciencias sociales, humanidades y artes  
-   Enero de 2015 - de 2016
-*  Doctorado UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA
-   Historia
-   Juliode2005 - Diciembrede 2012
+* Postdoctorado/Estancia postdoctoral Universidad Nacional de Córdoba  
+En ciencias sociales, humanidades y artes  
+Enero de 2015 - de 2016
+* Doctorado UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA  
+Historia  
+Juliode2005 - Diciembrede 2012  
+Historia de los jovenes en Colombia: Política, Educación, Ejércitos, trabajo y cultura. 1903-1991  
+* Maestría/Magister UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS  
+Maestria En Investigacion Social Interdisciplinari  
+Enerode1997 - de 2001  
+El Metal iza su badera en Bogota
 2. Escribir un programa que calcule el área de un rectángulo pidiendo al usuario ingresar el valor de los lados del rectangulo.
    área del rectángulo=lado1 * lado2. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/Simples/es2.py))
    
