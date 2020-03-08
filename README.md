@@ -7,11 +7,8 @@ __Phd. Carlos Arturo Reina Rodriguez__ | __careinar@udistrital.edu.co__
 
 Formación Académica
 ---
-*  Postdoctorado/Estancia postdoctoral Universidad Nacional de Córdoba
-
-En ciencias sociales, humanidades y artes
-
-
+*  Postdoctorado/Estancia postdoctoral Universidad Nacional de Córdoba...
+En ciencias sociales, humanidades y artes...
 Enero de 2015 - de 2016
 *  Doctorado UNIVERSIDAD NACIONAL DE COLOMBIA SEDE BOGOTA
    Historia
