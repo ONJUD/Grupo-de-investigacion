@@ -1,4 +1,4 @@
-# Newspapers
+Newspapers
 ============
 Nombre | Código
 --|--
